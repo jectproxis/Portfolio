@@ -1,3 +1,4 @@
+/*This program creates a simple number guessing game.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
